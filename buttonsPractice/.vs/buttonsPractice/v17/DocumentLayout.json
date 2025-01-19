@@ -1,0 +1,623 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\aboutcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\aboutcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|c:\\users\\cyber\\source\\repos\\buttonspractice\\buttonspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\games.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\games.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\rps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\rps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\intergers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\intergers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\intergers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\intergers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\aipickedanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\aipickedanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\rps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\rps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\rps.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\rps.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\computerrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\computerrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\emotionanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\emotionanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\pyramid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\pyramid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\looping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\looping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\looping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\looping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\conversionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\conversionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\operations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\operations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\aboutcschangeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\aboutcschangeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\aboutcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\aboutcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\arithmetic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\arithmetic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\conversionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\conversionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\conversionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\conversionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\mainmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\mainmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonspractice\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7B5DBB14-2560-4FCA-8AF4-BE5FC002267F}|buttonsPractice\\buttonsPractice.csproj|solutionrelative:buttonspractice\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 138,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "buttonsPractice\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Properties\\Resources.resx",
+              "RelativeToolTip": "buttonsPractice\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-26T12:04:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Form1.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Form1.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:47:00.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Form1.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Form1.cs",
+              "RelativeToolTip": "buttonsPractice\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwKMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:29:50.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Form1.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:33:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\MainMenuForm.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\MainMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:47:30.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\MainMenuForm.cs",
+              "RelativeToolTip": "buttonsPractice\\MainMenuForm.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:49:46.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainMenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\MainMenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\MainMenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\MainMenuForm.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\MainMenuForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:27:33.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Games.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Games.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Games.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Games.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\Games.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:49:42.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Games.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Games.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Games.cs",
+              "RelativeToolTip": "buttonsPractice\\Games.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwFUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:05:53.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Games.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Games.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Games.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Games.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\Games.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:24:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutUs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutUs.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutUs.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:22:28.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutUs.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutUs.cs",
+              "RelativeToolTip": "buttonsPractice\\AboutUs.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwEYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:24:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutCs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutCs.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\AboutCs.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutCs.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\AboutCs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:53:09.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AboutCs.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutCs.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\AboutCs.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AboutCs.cs",
+              "RelativeToolTip": "buttonsPractice\\AboutCs.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T09:05:05.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "aboutCsChangeImage.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\aboutCsChangeImage.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\aboutCsChangeImage.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\aboutCsChangeImage.cs",
+              "RelativeToolTip": "buttonsPractice\\aboutCsChangeImage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T09:10:45.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Operations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Operations.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Operations.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Operations.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\Operations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:38:19.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Operations.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Operations.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Operations.cs",
+              "RelativeToolTip": "buttonsPractice\\Operations.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwGoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:00:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Operations.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Operations.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Operations.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Operations.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\Operations.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:34:39.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Arithmetic.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Arithmetic.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Arithmetic.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\Arithmetic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:49:58.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Arithmetic.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Arithmetic.cs",
+              "RelativeToolTip": "buttonsPractice\\Arithmetic.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAADwv5gAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:14:49.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Arithmetic.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Arithmetic.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Arithmetic.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Arithmetic.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\Arithmetic.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:28:42.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConversionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\ConversionForm.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\ConversionForm.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\ConversionForm.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\ConversionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:18:29.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConversionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\ConversionForm.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\ConversionForm.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\ConversionForm.cs",
+              "RelativeToolTip": "buttonsPractice\\ConversionForm.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAIwOQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:32:55.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConversionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\ConversionForm.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\ConversionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\ConversionForm.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\ConversionForm.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T04:09:27.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Looping.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Looping.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Looping.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Looping.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\Looping.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:33:57.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Looping.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Looping.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Looping.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Looping.cs",
+              "RelativeToolTip": "buttonsPractice\\Looping.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAowLEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:41:18.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "pyramid.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\pyramid.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\pyramid.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\pyramid.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\pyramid.Designer.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAgwNUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:14:52.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "pyramid.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\pyramid.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\pyramid.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\pyramid.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\pyramid.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:23:19.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pyramid.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\pyramid.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\pyramid.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\pyramid.cs",
+              "RelativeToolTip": "buttonsPractice\\pyramid.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAowEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:30:21.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Intergers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Intergers.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Intergers.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Intergers.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\Intergers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:04:57.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Intergers.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Intergers.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Intergers.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Intergers.cs",
+              "RelativeToolTip": "buttonsPractice\\Intergers.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAOgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:06:51.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rps.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Rps.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Rps.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Rps.cs [Design]",
+              "RelativeToolTip": "buttonsPractice\\Rps.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:58:00.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rps.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Rps.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Rps.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Rps.cs",
+              "RelativeToolTip": "buttonsPractice\\Rps.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:38:40.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rps.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Rps.Designer.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\Rps.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\Rps.Designer.cs",
+              "RelativeToolTip": "buttonsPractice\\Rps.Designer.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAgwBgBAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:39:33.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "computerRandom.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\computerRandom.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\computerRandom.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\computerRandom.cs",
+              "RelativeToolTip": "buttonsPractice\\computerRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:54:37.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "emotionAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\emotionAnimation.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\emotionAnimation.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\emotionAnimation.cs",
+              "RelativeToolTip": "buttonsPractice\\emotionAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:31:38.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AiPickedAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AiPickedAnimation.cs",
+              "RelativeDocumentMoniker": "buttonsPractice\\AiPickedAnimation.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\buttonsPractice\\buttonsPractice\\AiPickedAnimation.cs",
+              "RelativeToolTip": "buttonsPractice\\AiPickedAnimation.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:59:19.813Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
