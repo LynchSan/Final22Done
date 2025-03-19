@@ -1,5 +1,4 @@
-This WinForm project is created by BSCS-1B of CVSU 2024-2025. 
-Final Project of Group1
+This WinForm project is created by Group
 Uploaded by Lynch.
 
 Copying and cloning the project is allowed as long as you give credits to our group!!
